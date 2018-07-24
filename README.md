@@ -6,7 +6,7 @@ Steps:
 1. Downnload the Zip MLBox File and unzip it
 2. Open Anaconda Prompt
 3. cd to //MLBox/python-package
-4. Execute in Anaconda Prompt below code
+4. Execute in Anaconda Prompt below code:- 
   python setup.py install
 5. This will install MLBox without any required package.
 6. Open Jupyter Notebook and type
